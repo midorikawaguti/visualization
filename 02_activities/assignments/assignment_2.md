@@ -8,26 +8,51 @@
 - To test your evaluation skills, locate two public data visualizations online, one good and one bad  
     - You can find data visualizations at https://public.tableau.com/app/discover or https://datavizproject.com/, or anywhere else you like! 
 - For each visualization (good and bad):  
+
+GOOD VISUALIZATION - Plant Based eating chart: Source https://thisweekfordinner.com/2019-new-years-resolution-more-plant-based-eating/
+
+ - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) why you classified that visualization the way you did.
+      ```
+
+    - Taking into consideration the type of data visualization, the use of a bar chart is appropriate in this case because it allows for an easy comparison of carbon opportunity costs across different diets, ensuring clarity.
+  
+    - The clean design and effective use of colors contribute to a strong aesthetic, capturing the audience’s attention without overwhelming the viewer. Also, the illustrations of foods related to each diet help those unfamiliar with the specific diets understand how the diets differ.
+    
+    - The labels are clear, making it easy for the audience to differentiate between carbon opportunity cost and product emissions. There is also the proper separation of categories, which enhances readability and prevents misinterpretation.
+
+    - In addition, the visualization not only presents data but also tells a compelling story about the environmental impact of diet choices. The chart acts as a visual element to support the article discussion, guiding the audience through the information in a logical manner.
+
+    - In terms of perception, the chart is also very effective. It communicates the message clearly and straightforwardly.
+      ```
+- How could this data visualization have been improved?  
+      ```
+
+    - Adding data labels on the bars would enhance the chart, making it easier to extract exact numbers. The current image only allows for a visual estimation.
+
+    - A reference to the dataset can also be interesting because it can be used to enhance credibility and allow for further exploration and reproducibility.
+      
+      ```
+
+BAD VISUALIZATION - https://miro.medium.com/v2/resize:fit:1400/format:webp/1*EPLW2ceLEajZwXd-sLEfzQ.png
+
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) why you classified that visualization the way you did.
       ```
-      Your answer...
+     -The selection of a pie chart was not the most appropriate choice for this scenario. Pie charts are typically utilized to represent proportions where the total sums to 100%. In this case, however, it is being used to illustrate the number of states per division in the United States, which can cause confusion and be misleading. 
 
+     -The chart only presents counts without offering any analytical depth. If the intention was only to compare the number of states per division, maybe another kind of chart would be more interesting.
 
+     -The small labels in the legend make reading and understanding the data difficult, making the visual appeal weak.
 
-
-
-
+     -The chart lacks engaging elements that would make the information more intuitive or compelling.
 
       ```
     - How could this data visualization have been improved?  
       ```
-      Your answer...
+    - In order to make the graph more compelling, and increase cognitive load the map could show the divisions geographically. A labeled cartogram could group states by division while maintaining geographical context.
 
+    - Or could be used a bar chart to better display the number of states per division.
 
-
-
-
-
+    - Including additional insights could also be helpful, enhancing the visualization's informativeness, such as providing context on why the US is divided into these regions and what differentiates them.      
       
       ```
 - Word count should not exceed (as a maximum) 500 words for each visualization (i.e. 
